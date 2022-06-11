@@ -1,22 +1,7 @@
 Hello Git! 222222222222222222222:
 Hello Git! Hello Git！
-Hello Git! Hello Git！
+Hello Git!ello Git! Hello Git！
 n
-Hello Git! Hello Git！
-Hello Git! Hello Git！
-Hello Git! Hello Git！
-Hello Git! Hello Git！
-Hello Git! Hello Git！
-Hello Git! Hello Git！
-Hello Git! Hello Git！
-Hello Git! Hello Git！
-Hello Git! Hello Git！
-Hello Git! Hello Git！
-Hello Git! Hello Git！
-Hello Git! Hello Git！
-Hello Git! Hello Git！
-Hello Git! Hello Git！
-Hello Git! Hello Git！
-Hello Git! Hello Git！
-n
-Hello Git! Hello Git！
+Hello Git!
+Hello Git！
+third:
